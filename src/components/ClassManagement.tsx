@@ -6,3 +6,5 @@
                <p className="text-muted-foreground mt-2">Loading classes...</p>
              </div>
            ) : (
+           )
+           }
